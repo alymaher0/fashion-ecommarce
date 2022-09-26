@@ -610,7 +610,7 @@ footer .copyright{
 }
 /* blog page */
 #page-header.blog-header{
-    background-image: url(/assets/img/banner/b21.jpg);
+    background-image: url(assets/img/banner/b21.jpg);
 }
 #blog{
     padding: 150px 150px 0 150px;
