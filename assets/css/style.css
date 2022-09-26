@@ -533,7 +533,7 @@ footer .copyright{
 }
 /* ======================== shop page ======================= */
 #page-header{
-    background-image: url(/assets/img/banner/b22.jpg);
+    background-image: url(../img/banner/b22.jpg);
     height: 50vh;
     width: 100%;
     background-size: cover;
@@ -610,7 +610,7 @@ footer .copyright{
 }
 /* blog page */
 #page-header.blog-header{
-    background-image: url(assets/img/banner/b21.jpg);
+    background-image: url(../img/banner/b21.jpg);
 }
 #blog{
     padding: 150px 150px 0 150px;
@@ -668,7 +668,7 @@ footer .copyright{
 }
 /* =========== about page =============== */
 #page-header .about-header{
-    background-image: url(/assets/img/banner/b21.jpg);
+    background-image: url(../img/banner/b21.jpg);
 }
 #about-head{
     display: flex;
@@ -697,7 +697,7 @@ footer .copyright{
 }
 /*================ Contact page ================= */
 #page-header .contact-header{
-    background-image: url(/assets/img/banner/b22.jpg);
+    background-image: url(../img/banner/b22.jpg);
 }
 #contact-details{
     display: flex;
