@@ -130,7 +130,7 @@ body{
 }
 /* hero */
 #hero{
-    background-image: url(../img/brooke-cagle-z1B9f48F5dc-unsplash.jpg);
+    background-image: url(/img/brooke-cagle-z1B9f48F5dc-unsplash.jpg);
     height: 90vh;
     width: 100%;
     background-size: cover;
